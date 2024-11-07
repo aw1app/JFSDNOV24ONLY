@@ -11,8 +11,7 @@ public class ForiegnStudent extends Student{
 	}
 	
 	public ForiegnStudent(String na,float age, String nationality ){
-		super(na,age);
-		this.nationality = nationality;		
+		super(na,age);		
 	}
 	
 	void payFeesInDollars(float dollars){
