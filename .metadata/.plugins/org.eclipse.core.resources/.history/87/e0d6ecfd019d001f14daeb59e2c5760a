@@ -1,0 +1,9 @@
+package fruits;
+
+public class Mango {
+	
+	 public final int x1 =100;
+	 
+	 public final String greeting = "Hi";
+
+}

@@ -12,7 +12,7 @@ public abstract class Apple {
     String variety="Washington";
     
     
-   
+    public final int x1 =100;
     
     public abstract void eat();
     
