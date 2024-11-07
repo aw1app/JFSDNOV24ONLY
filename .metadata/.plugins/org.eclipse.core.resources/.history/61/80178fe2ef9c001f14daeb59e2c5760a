@@ -19,12 +19,12 @@ public class ForiegnStudent extends Student{
 		
 	}
 	
-	
-	//Overriding super class's displayDetails method
-	public void displayDetails(){
-		System.out.println("Student's name: " + name);
-		System.out.println("Age is " + this.age);	
-		System.out.println("Nationality is " + this.nationality);	
+	public void displayDetails() {
+		
+		System.out.println(this.name);
+		
+		System.out.println(this.age);
+		
 	}
 
 }

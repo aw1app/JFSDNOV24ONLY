@@ -55,11 +55,6 @@ public class Student {
 
 	}
 
-	public void displayDetails(){
-		System.out.println("Student's name: " + name);
-		System.out.println("Age is " + this.age);	
-	}
-	
 	// method to display Student’s age
 	public void displayAge() {
 		System.out.println("Age is " + this.age);

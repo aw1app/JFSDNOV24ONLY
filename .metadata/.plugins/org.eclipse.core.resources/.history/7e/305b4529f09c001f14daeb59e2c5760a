@@ -45,7 +45,7 @@ public class UniversityMainDemo {
 		
 		System.out.println("\n *** STUDENT 3 DETAILS ****");
 		Student stud3 = new Student("Brian", 22.7f, 1234123456785678L);
-		stud3.displayDetails();
+		stud3.displayAge();
 		
 		System.out.println("\n *** FORIEGN STUDENT 2 DETAILS ****");
 		Student fstud2 = new ForiegnStudent("Johnny", 22.7f, "British");
