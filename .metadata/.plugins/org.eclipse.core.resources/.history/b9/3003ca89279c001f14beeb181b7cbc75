@@ -1,0 +1,40 @@
+
+public class Student {
+	// Data/Attributes/Feilds
+	String name;
+	float age;
+
+	float weight;
+
+	boolean isGraduate;
+
+	char grade = 'A';
+
+	// Operations/Methods
+	void promote(int n) {
+		// method body
+		int x;
+	}
+
+	/*
+	The 
+	fee
+	to be paid 
+	while joing
+	*/
+	void payFees(float fee) {
+
+	}
+	
+	//method to display Student’s age
+    void displayAge(){
+    	System.out.println("Age is "+ this.age);
+    }
+    
+  //method to display Student’s name
+    void displayName() { System.out.println("Student's name: " + name); }
+	
+
+}
+
+

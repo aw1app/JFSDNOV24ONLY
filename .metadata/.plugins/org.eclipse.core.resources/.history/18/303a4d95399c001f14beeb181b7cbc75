@@ -1,0 +1,10 @@
+package P2;
+
+public class C {
+	
+	public void method1() {
+	Student s1= new Student();
+	
+	}
+
+}

@@ -1,0 +1,19 @@
+
+
+public class StudentMainDemo {
+
+	public static void main(String[] args) {
+		
+		Student stud1 = new Student();
+		stud1.name="Joseph";
+		stud1.age =34;
+		
+		stud1.displayAge();
+		
+		stud1.displayAge();
+		
+		stud1.displayAge();
+
+	}
+
+}
