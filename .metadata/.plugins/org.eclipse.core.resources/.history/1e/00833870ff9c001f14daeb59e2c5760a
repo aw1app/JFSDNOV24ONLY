@@ -99,12 +99,6 @@ public class Student implements Human{
 		// TODO Auto-generated method stub
 		
 	}
-	
-	
-	// static method demo
-	public static void tellHi() {
-		System.out.println("Hi " );
-	}
 
 	// return twice the age
 

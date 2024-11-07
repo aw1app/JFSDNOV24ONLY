@@ -81,8 +81,6 @@ public class UniversityMainDemo {
 		System.out.println("Student class pq is "+Student.pq);
 		
 		Student.tellHi();
-		stud1.tellHi();
-		stud2.tellHi();
 
 	}
 
