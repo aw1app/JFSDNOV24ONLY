@@ -4,8 +4,6 @@ import P1.Student;
 
 public class ForiegnStudent extends Student{
 	
-	char grade = 'B';
-	
 	public String nationality;
 	
 	public ForiegnStudent(){
@@ -24,11 +22,8 @@ public class ForiegnStudent extends Student{
 	
 	//Overriding super class's displayDetails method
 	public void displayDetails(){
-//		System.out.println("Student's name: " + name);
-//		System.out.println("Age is " + this.age);	
-		
-		super.displayDetails();
-		
+		System.out.println("Student's name: " + name);
+		System.out.println("Age is " + this.age);	
 		System.out.println("Nationality is " + this.nationality);	
 	}
 

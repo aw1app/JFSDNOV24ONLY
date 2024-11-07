@@ -1,5 +1,4 @@
 package P1;
-import fruits.Apple;
 import students.ForiegnStudent;
 
 public class UniversityMainDemo {
@@ -55,10 +54,6 @@ public class UniversityMainDemo {
 		System.out.println("\n *** POLYMORPHISM DEMO ****");
 		Student fs1 = new ForiegnStudent();
 		System.out.println(fs1.grade);
-		fs1.displayDetails();
-		
-		
-		//Apple a1 = new Apple();
 
 	}
 
