@@ -12,9 +12,6 @@ public class Student implements Human{
 	char grade = 'A';
 
 	private long creditCardNo;
-	
-	
-	public static int pq=10;
 
 	// Constructor
 	public Student() {

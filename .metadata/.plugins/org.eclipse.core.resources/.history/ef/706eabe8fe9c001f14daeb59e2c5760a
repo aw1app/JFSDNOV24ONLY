@@ -75,10 +75,7 @@ public class UniversityMainDemo {
 		System.out.println("Student class pq is "+Student.pq);
 		System.out.println("stud1 pq is "+stud1.pq);
 		System.out.println("stud2 pq is "+stud2.pq);
-		stud2.pq = 100000;
 		System.out.println("stud3 pq is "+stud3.pq);
-		System.out.println("fs1 pq is "+fs1.pq);
-		System.out.println("Student class pq is "+Student.pq);
 
 	}
 
