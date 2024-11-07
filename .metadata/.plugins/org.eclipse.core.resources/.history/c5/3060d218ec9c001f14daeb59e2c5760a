@@ -6,7 +6,7 @@ public class ForiegnStudent extends Student{
 	
 	public String nationality;
 	
-	public ForiegnStudent(){
+	ForiegnStudent(){
 		super();		
 	}
 	

@@ -6,10 +6,6 @@ public class ForiegnStudent extends Student{
 	
 	public String nationality;
 	
-	public ForiegnStudent(){
-		super();		
-	}
-	
 	void payFeesInDollars(float dollars){
 		
 	}
