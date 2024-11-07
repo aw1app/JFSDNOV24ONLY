@@ -1,6 +1,6 @@
 package P1;
 
-public class Student implements Human{
+public class Student {
 	// Data/Attributes/Feilds
 	public String name;
 	public float age;
@@ -83,18 +83,6 @@ public class Student implements Human{
 		} else {
 			System.out.println("Student is not eligible to vote");
 		}
-	}
-
-	@Override
-	public void speak(String words) {
-		System.out.println("Sir");
-		System.out.println(words);
-	}
-
-	@Override
-	public void walk() {
-		// TODO Auto-generated method stub
-		
 	}
 
 	// return twice the age
