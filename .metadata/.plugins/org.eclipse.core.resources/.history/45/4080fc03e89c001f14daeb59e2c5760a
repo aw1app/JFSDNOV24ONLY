@@ -2,34 +2,19 @@ package P1;
 
 public class Student {
 	// Data/Attributes/Feilds
-	public String name;
+	String name;
 	public float age;
 
-	protected float weight;
+	float weight;
 
 	boolean isGraduate;
 
 	char grade = 'A';
-	
-	private long creditCardNo;
 
 	// Operations/Methods
 	void promote(int n) {
 		// method body
 		int x;
-	}
-	
-	public void setCreditCardNo(long newccNo) {
-		// do some security checks and then allow modification
-		// send some OTP
-//		if(OTP was entered correct) {
-//			
-//		this.creditCardNo=newccNo;
-//		}
-//		else
-//		{
-//			
-//		}
 	}
 
 	/*
@@ -40,7 +25,7 @@ public class Student {
 	}
 
 	// method to display Student’s age
-	public void displayAge() {
+	void displayAge() {
 		System.out.println("Age is " + this.age);
 	}
 

@@ -1,5 +1,5 @@
 package P1;
-import students.ForiegnStudent;
+import ForiegnStudent;
 
 public class StudentMainDemo {
 

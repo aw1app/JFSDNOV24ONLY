@@ -18,19 +18,6 @@ public class Student {
 		// method body
 		int x;
 	}
-	
-	public void setCreditCardNo(long newccNo) {
-		// do some security checks and then allow modification
-		// send some OTP
-//		if(OTP was entered correct) {
-//			
-//		this.creditCardNo=newccNo;
-//		}
-//		else
-//		{
-//			
-//		}
-	}
 
 	/*
 	 * The fee to be paid while joing
@@ -40,7 +27,7 @@ public class Student {
 	}
 
 	// method to display Student’s age
-	public void displayAge() {
+	void displayAge() {
 		System.out.println("Age is " + this.age);
 	}
 
