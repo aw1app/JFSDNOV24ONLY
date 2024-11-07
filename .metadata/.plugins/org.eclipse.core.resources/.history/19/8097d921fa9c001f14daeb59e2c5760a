@@ -11,9 +11,9 @@ public abstract class Apple {
 	
     String variety="Washington";
     
-    public abstract void eat();
+    abstract void eat();
     
-    public void ripen() {
+    void ripen() {
     	// implementated
     	System.out.println("Ok, ripened this apple");
     }
