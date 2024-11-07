@@ -1,6 +1,5 @@
 package P1;
 import fruits.Apple;
-import fruits.AppleLikeFruit;
 import students.ForiegnStudent;
 
 public class UniversityMainDemo {
@@ -59,12 +58,7 @@ public class UniversityMainDemo {
 		fs1.displayDetails();
 		
 		
-		//Apple a1 = new Apple(); // Apple class is abstract so we cannot create Apple objects
-		
-		// so we create subclass of Apple like AppleLikeFruit, impllement the abstract methods
-		// Then we can instantiate and test out methods that are implemented!
-		Apple a1 =  new AppleLikeFruit();
-		a1.ripen();
+		//Apple a1 = new Apple();
 
 	}
 
