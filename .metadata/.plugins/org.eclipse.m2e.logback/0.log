@@ -25,3 +25,10 @@
 2024-11-20 16:32:12,245 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\src\test\resources
 2024-11-20 16:32:12,246 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MySpringProj1
 2024-11-20 16:32:12,247 [Worker-5: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MySpringProj1
+2024-11-20 16:39:01,234 [Worker-12: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: MySpringProj1:MySpringProj1:0.0.1-SNAPSHOT @ F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\pom.xml.
+2024-11-20 16:39:04,871 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-20 16:39:04,872 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\src\main\resources
+2024-11-20 16:39:04,878 [Worker-12: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-20 16:39:04,879 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\src\test\resources
+2024-11-20 16:39:04,880 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of MySpringProj1
+2024-11-20 16:39:04,880 [Worker-12: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for MySpringProj1
