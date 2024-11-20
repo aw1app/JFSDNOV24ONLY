@@ -76,3 +76,7 @@
 2024-11-20 16:49:48,653 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\src\main\resources
 2024-11-20 16:49:48,657 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-11-20 16:49:48,659 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\src\test\resources
+2024-11-20 16:52:49,414 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-20 16:52:49,417 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\src\main\resources
+2024-11-20 16:52:49,424 [Worker-9: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-20 16:52:49,425 [Worker-9: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\MySpringProj1\src\test\resources
