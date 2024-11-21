@@ -759,3 +759,7 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-11-21 15:47:00,239 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
 2024-11-21 15:47:00,247 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-11-21 15:47:00,248 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 16:23:24,024 [Worker-210: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 16:23:24,026 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 16:23:24,029 [Worker-210: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 16:23:24,030 [Worker-210: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources

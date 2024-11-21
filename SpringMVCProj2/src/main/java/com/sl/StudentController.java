@@ -23,6 +23,8 @@ public class StudentController {
 		// Create a model object and put the above student list in the model.
 		model.addAttribute("studentList", students);
 		model.addAttribute("pageTitle", "Student List");
+		
+		// The model object will be available in the JSP below.
 
 		return "list-of-students";
 	}
