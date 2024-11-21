@@ -42,7 +42,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- Manually add the taglibs (below 1 dependencies) -->
+		<!-- Manually add the taglibs and jsp support(below 2 dependencies) -->
 		<dependency>
 			<groupId>taglibs</groupId>
 			<artifactId>standard</artifactId>
