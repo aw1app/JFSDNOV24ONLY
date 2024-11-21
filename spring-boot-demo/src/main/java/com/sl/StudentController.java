@@ -11,10 +11,22 @@ public class StudentController {
 	
 	@GetMapping("/hi")
 	@ResponseBody
-	public String listOfstudents(Model model) {
+	public String hi(Model model) {
 		
-		return "Hi Hello";		
+		return "Hi Hello";			
+	}
+	
+	@GetMapping("/hi2")
+	@ResponseBody
+	public String hi2(Model model) {
 		
+		return "Hi Hello 2";			
+	}
+	
+	@GetMapping("/home")
+	public String home(Model model) {
+		
+		return "home";		// goes to /WEB-INF/views/home.jsp	
 	}
 
 }
