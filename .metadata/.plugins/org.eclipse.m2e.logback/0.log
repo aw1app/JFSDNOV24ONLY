@@ -727,3 +727,35 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2024-11-21 14:38:11,334 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
 2024-11-21 14:38:11,340 [Worker-184: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
 2024-11-21 14:38:11,341 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:32:29,867 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:32:29,869 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:32:29,877 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:32:29,880 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:33:34,026 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:33:34,027 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:33:34,045 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:33:34,046 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:34:30,815 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:34:30,816 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:34:30,820 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:34:30,822 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:35:16,595 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:35:16,596 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:35:16,599 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:35:16,599 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:35:56,197 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:35:56,198 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:35:56,201 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:35:56,202 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:41:25,647 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:41:25,649 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:41:25,654 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:41:25,655 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:43:19,732 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:43:19,732 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:43:19,736 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:43:19,737 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
+2024-11-21 15:47:00,237 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:47:00,239 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\main\resources
+2024-11-21 15:47:00,247 [Worker-205: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2024-11-21 15:47:00,248 [Worker-205: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\Users\home\git\JFSDNOV24ONLY\SpringMVCProj2\src\test\resources
