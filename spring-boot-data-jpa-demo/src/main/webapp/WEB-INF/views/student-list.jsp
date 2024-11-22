@@ -42,7 +42,8 @@
 <h1><center>University Management App</center></h1>
 
 <a href="/" > Home </a>    |     
-<a href="/students-list" > Students List </a>
+<a href="/students-list" > Students List </a>    |     
+<a href="/add-student" > Add a New Student </a> 
 
 
     <div class="container">

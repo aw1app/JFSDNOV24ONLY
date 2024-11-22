@@ -6,6 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
 
 import com.sl.entities.Student;
 import com.sl.respositries.StudentRepositry;
@@ -30,9 +31,23 @@ public class StudentController {
 	
 	
 	@GetMapping("/add-student")
-	public String addNewStudent(Model model) {
-		
+	public String addNewStudent() {		
 		return "add-student"; // add-student.jsp
+	}
+	
+	@PostMapping("/add-student")
+	public String processAddNewStudent(Model model, String firstName,String lastName, float age ) {
+		
+		Student stud =  new Student();
+		stud.setAge(age);
+		stud.setFirstName(firstName);
+		stud.setLastName(lastName);
+		
+		Student  savedStud = studentRepositry.save(stud);
+		
+		model.addAttribute("ID", savedStud.getStudentId());
+		
+		return "add-student-success"; // add-student-success.jsp
 	}
 
 }
