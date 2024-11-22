@@ -54,8 +54,6 @@
                 <tr>
                     <th>ID</th>
                     <th>Name</th>
-                    <th>Course</th>
-                    <th>Age</th>
                 </tr>
             </thead>
             <tbody>
@@ -63,8 +61,6 @@
                     <tr>
                         <td>${student.studentId}</td>
                         <td>${student.firstName}</td>
-                        <td>${student.lastName}</td>
-                        <td>${student.age}</td>
                     </tr>
                 </c:forEach>
             </tbody>
