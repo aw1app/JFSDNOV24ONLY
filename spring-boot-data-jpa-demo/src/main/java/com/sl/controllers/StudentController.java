@@ -27,5 +27,12 @@ public class StudentController {
 		
 		return "student-list"; // student-list.jsp
 	}
+	
+	
+	@GetMapping("/add-student")
+	public String addNewStudent(Model model) {
+		
+		return "add-student"; // add-student.jsp
+	}
 
 }
